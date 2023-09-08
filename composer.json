@@ -1,0 +1,11 @@
+{
+    "name": "api/unina",
+    "description": "API - Faculdade Unina",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [ { "name": "unina" } ]
+}
